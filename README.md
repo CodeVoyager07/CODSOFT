@@ -1,1 +1,3 @@
-# CODSOFT
+This repository is for CODSOFT internship tasks...
+<br>
+Author - Aryan Awasthi
